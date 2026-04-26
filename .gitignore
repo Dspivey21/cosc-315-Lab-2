@@ -1,0 +1,14 @@
+out/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude per-project state
+.claude/
