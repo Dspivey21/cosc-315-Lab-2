@@ -1,7 +1,7 @@
 # Lab 2 Writeup — ADT Implementations + Performance Shootout
 
-**Author:** Daniel Spivey  
-**Course:** COSC 315 — Advanced Java  
+**Author:** Dylan Spivey  
+**Course:** COSC 310 — Advanced Java  
 **Date:** April 26, 2026
 
 ## Setup

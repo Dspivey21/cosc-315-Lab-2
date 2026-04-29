@@ -1,6 +1,6 @@
 # Lab 2 — ADT Implementations + Performance Shootout
 
-COSC 315 Advanced Java. Implements Stack, Queue, and PriorityQueue ADTs over both
+COSC 310 Advanced Java. Implements Stack, Queue, and PriorityQueue ADTs over both
 ArrayList and DLinkedList backings, plus a binary heap PQ, then benchmarks them.
 
 ## Layout
